@@ -28,4 +28,4 @@ Abaixo, uma Screenshot com a demonstração do aplicativo e logo após um link p
 
 ![Demo QR Code component](/assets/images/demo.jpg)
 
-## <a href="">Link para teste</a>
+## <a href="https://kermitcosta.github.io/qr-code-component/">Link para teste</a>
