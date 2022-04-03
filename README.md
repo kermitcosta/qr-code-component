@@ -1,4 +1,4 @@
-# Desafio técnico - Doutor Multas
+# Desafio Frontend Mentor - QR code component
 
 ## 💬 Sobre
 
